@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">拾色</string>
+
+    <string name="act_recognize">尽可能识别出最接近的颜色</string>
+    <string name="act_open_camera">打开相机以实时识别</string>
+
+    <string name="hint_hex">十六进制代码</string>
+
+    <string name="warning_wrong_hex">请输入正确的十六进制代码</string>
+    <string name="warning_no_camera">未找到相机</string>
+    <string name="warning_camera_not_available">相机正在使用</string>
+</resources>

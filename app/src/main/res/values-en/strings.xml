@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Recognizer</string>
+    <string name="hint_hex">Hex value</string>
+    <string name="warning_wrong_hex">Please enter a correct hex value.</string>
+    <string name="act_open_camera">Open camera to recognize color in real time</string>
+    <string name="act_recognize">Recognize the closest color</string>
+    <string name="warning_no_camera">No Camera Found</string>
+    <string name="warning_camera_not_available">Camera is under use</string>
+</resources>
